@@ -1,0 +1,11 @@
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\bin\Debug\OpenXmlFileViewer.exe
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\bin\Debug\OpenXmlFileViewer.pdb
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.csprojAssemblyReference.cache
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.FindDialog.resources
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.Form1.resources
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.LineNumberTextBox.resources
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.Properties.Resources.resources
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.csproj.GenerateResource.cache
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.csproj.CoreCompileInputs.cache
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.exe
+C:\_TFS\PFE\OpenXmlFileViewer\OpenXmlFileViewer\obj\x86\Debug\OpenXmlFileViewer.pdb
