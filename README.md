@@ -1,3 +1,4 @@
+![Office Open XML File Viewer Banner Image, logo with a green O and a gray bar background](https://davecra.files.wordpress.com/2020/08/officexmlfileviewer_banner.png)
 # Office Open XML File Viewer
 All Office Open XML files are really just a ZIP Package, renamed to .pptx, .xlsx, .docx, etc. This file viewer allows you to peek inside one of these files to read or modify the individual parts of the file.
 
