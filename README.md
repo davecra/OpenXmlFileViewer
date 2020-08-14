@@ -6,7 +6,7 @@ All Office Open XML files are really just a ZIP Package, renamed to .pptx, .xlsx
 
 ## Install
 To install this application, please download it from here:
-https://github.com/davecra/OpenXmlFileViewer/raw/master/OpenXmlFileViewer_1.0.0.1.zip
+https://github.com/davecra/OpenXmlFileViewer/raw/master/OpenXmlFileViewer_1.0.0.2.zip
 
 Unzip this file and place it in any folder. It is suggested to place it in c:\Program Files\OpenXmlFileViewer\OpenXmlFileViewer.exe
 
