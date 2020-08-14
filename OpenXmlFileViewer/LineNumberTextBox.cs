@@ -21,8 +21,8 @@ namespace OpenXmlFileViewer
         /// </summary>
         public delegate void ViewChangeHandler(int first, int last);
         public event ViewChangeHandler ViewChange;
-        public delegate void TextChangeHandler();
-        public event TextChangeHandler TextChanged;
+        public delegate void TextChangeHandler(object Sender, EventArgs eventArgs);
+        public event TextChangeHandler XmlTextChanged;
         private System.Windows.Forms.Timer tmrWheel = new System.Windows.Forms.Timer();
         private int MintLastWheelLine = 0;
         private bool MbolDisbaleUpdates = false;
@@ -60,8 +60,7 @@ namespace OpenXmlFileViewer
             // hook the text change event
             richTextBox1.TextChanged += (PobjO, PobjE) =>
             {
-                if (TextChanged != null)
-                    TextChanged();
+                XmlTextChanged?.Invoke(this, new EventArgs());
             };
         }
 
@@ -224,6 +223,11 @@ namespace OpenXmlFileViewer
         {
             updateNumberLabel();
             richTextBox1_VScroll(null, null);
+        }
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

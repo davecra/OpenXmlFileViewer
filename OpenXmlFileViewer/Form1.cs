@@ -33,10 +33,10 @@ namespace OpenXmlFileViewer
         public Form1(string[] PstrArgs)
         {
             InitializeComponent();
-/*            lineNumberTextBox1.TextChanged += () =>
+            lineNumberTextBox1.XmlTextChanged += (o,e) =>
             {
                 toolStripButton3.Enabled = true;
-            };*/
+            };
             this.Text = "OpenXml File Viewer";
             if (PstrArgs.Length > 0)
             {
