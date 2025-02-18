@@ -2,11 +2,11 @@
 # Office Open XML File Viewer
 All Office Open XML files are really just a ZIP Package, renamed to .pptx, .xlsx, .docx, etc. This file viewer allows you to peek inside one of these files to read or modify the individual parts of the file.
 
-**NOTE**: I created this application for myself back in 2013 and forgot about it. I recently needed it again for a project I was working on. I did a housecleaning, converted it to x64, and published it here.
+**NOTE**: Updated to .NET4.8 on 2025-02-18.
 
 ## Install
 To install this application, please download it from here:
-https://github.com/davecra/OpenXmlFileViewer/raw/master/OpenXmlFileViewer_1.0.0.2.zip
+https://github.com/davecra/OpenXmlFileViewer/raw/master/OpenXmlFileViewer_1.0.0.3.zip
 
 Unzip this file and place it in any folder. It is suggested to place it in c:\Program Files\OpenXmlFileViewer\OpenXmlFileViewer.exe
 
